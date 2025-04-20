@@ -1,41 +1,42 @@
-# Sneha Anand Yeluguri - Portfolio Website
+# Sneha Anand Yeluguri - Portfolio
 
-A modern, responsive portfolio website showcasing Sneha's experience as an Android Developer.
+Welcome to my portfolio website! I am an experienced Android Developer with over 6 years of IT experience and 4+ years of specialized Android development expertise.
 
 ## Features
 
 - Responsive design that works on all devices
-- Modern UI with smooth animations
-- Interactive navigation
-- Sections for:
-  - Professional Summary
-  - Work Experience
-  - Technical Skills
-  - Education
-  - Achievements
-  - Contact Information
+- Dark/Light theme switcher
+- Smooth scrolling navigation
+- Interactive contact form
+- Detailed project timeline
+- Skills showcase
+- Educational background
+- Professional achievements
 
 ## Technologies Used
 
 - HTML5
-- CSS3 (with CSS Variables and Flexbox/Grid)
-- JavaScript (Vanilla)
-- Font Awesome Icons
-- Google Fonts (Roboto)
+- CSS3
+- JavaScript
+- EmailJS for contact form
+- Font Awesome for icons
+- Google Fonts
+
+## Contact
+
+Feel free to reach out to me:
+- Email: sneha2110reddy@gmail.com
+- Phone: (571) 328-8234
+- Location: New York, NY
+
+## Deployment
+
+This portfolio is deployed using GitHub Pages and can be accessed at: https://sneha2110reddy.github.io/portfolio/
 
 ## Setup
 
 1. Clone this repository or download the files
 2. Open `index.html` in a web browser to view the website locally
-
-## Deployment
-
-The website can be deployed to any web hosting service. Some recommended options:
-
-- GitHub Pages (Free)
-- Netlify (Free)
-- Vercel (Free)
-- Any traditional web hosting service
 
 ## Structure
 
@@ -63,4 +64,4 @@ portfolio/
 
 ## License
 
-MIT License - feel free to use this template for your own portfolio! 
+MIT License - feel free to use this template for your own portfolio!
